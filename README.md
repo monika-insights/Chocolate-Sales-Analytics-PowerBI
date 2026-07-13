@@ -29,7 +29,7 @@ The project demonstrates the complete data analytics workflow, including data cl
 Designed with a focus on business decision-making, the dashboard helps stakeholders monitor sales performance, identify high-performing products and regions, evaluate salesperson contributions, and uncover trends that support strategic planning. This project showcases my ability to build scalable, interactive reporting solutions while applying data visualization best practices and analytical thinking to solve real-world business challenges.
 
 
-# 🎯 Business Problem
+# 🔍 Business Problem
 
 This project simulates a business scenario in which a chocolate company generates large volumes of sales data across multiple products, countries, sales representatives, and shipment records. As the business grows, the data becomes increasingly difficult to analyze in its raw transactional format, making it challenging for stakeholders to efficiently monitor performance, identify sales trends, and make timely, data-driven decisions.
 
