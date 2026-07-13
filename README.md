@@ -1,5 +1,25 @@
 # Chocolate Sales Analytics Dashboard 🍫
-An interactive Power BI dashboard to analyze chocolate sales performance across products, countries, salespeople and shipments.
+An end-to-end Business Intelligence dashboard built with Microsoft Power BI to analyze chocolate sales performance across products, countries, sales representatives, and shipment activities through interactive visualizations and KPI-driven insights.
+
+## 📑 Table of Contents
+
+- [📖 Project Overview](#-project-overview)
+- [🎯 Business Problem](#-business-problem)
+- [🎯 Project Objectives](#-project-objectives)
+- [📊 Dashboard Preview](#-dashboard-preview)
+- [⭐ KPI Summary](#-kpi-summary)
+- [📸 Dashboard Pages](#-dashboard-pages)
+- [🧩 Data Model](#-data-model)
+- [💡 Business Insights](#-business-insights)
+- [📊 Business Value](#-business-value)
+- [✨ Key Dashboard Features](#-key-dashboard-features)
+- [🛠️ Tools & Technologies](#️-tools--technologies)
+- [🚀 Skills Demonstrated](#-skills-demonstrated)
+- [📂 Repository Structure](#-repository-structure)
+- [👩‍💻 About the Author](#-about-the-author)
+
+
+
 # 📖 Project Overview
 
 The Chocolate Sales Analytics Dashboard is an end-to-end Business Intelligence project developed using Microsoft Power BI to transform raw sales data into meaningful, interactive insights. The dashboard provides a comprehensive view of business performance by analyzing sales across products, countries, sales representatives, and shipment activities through dynamic visualizations and KPI tracking.
